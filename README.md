@@ -4,6 +4,6 @@
 
 -------------
 
-Writing by **Caleb Mazalevskis**, **Max Base**
+https://github.com/phpMussel
 
-https://github.com/phpMussel/phpMussel/issues/199
+Writing by **Caleb Mazalevskis**, **Max Base**.
