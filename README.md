@@ -8,4 +8,4 @@ You can preview the e-book file : [phpMussel.pdf](phpMussel.pdf)
 
 https://github.com/phpMussel
 
-Writing by **Caleb Mazalevskis**, **Max Base**.
+Writing by **Caleb Mazalevskis**
